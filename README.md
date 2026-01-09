@@ -30,10 +30,7 @@
 - Working toward becoming a **Top GitHub Creator from India**
 
 ---
-## 🛠 Tech Stack
-![React](https://img.shields.io/badge/React-18-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-3-blue)
+
 
 ## 📌 Featured Repositories (Coming Soon)
 
