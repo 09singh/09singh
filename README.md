@@ -57,14 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=09singh&show_icons=true&theme=react" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=09singh&layout=compact&theme=react" height="150"/>
-</p>
-
----
 
 ## 📈 Contribution Activity
 
