@@ -28,9 +28,6 @@
 </p>
 
 ---
-## 🛠️ Tech Stack & Tools
-
-
 
 ## 🚀 Current Focus
 - Building **real-world frontend projects with React**
