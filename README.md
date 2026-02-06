@@ -43,7 +43,7 @@
 |-------|-------------|
 | 🌐 **Portfolio Website** | Personal portfolio built with modern UI & responsive design |
 | 🎨 **Amazon UI** | Responsive mobile view, Hover effects + loading skeleton |
-| 🌦️ **Weather App** | Real-time weather application built using JavaScript with a clean and responsive UI |
+| 🌦️ **live data** | Real-time weather, crypto, stock webpage built using React.js with a clean and responsive UI |
 | 📝 **Notes App** | Simple notes application to create, edit, and manage notes efficiently |
 | 🎮 **Tic Tac Toe Game** | JavaScript-based game with clean logic |
 
