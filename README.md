@@ -33,7 +33,7 @@
 - Building **real-world frontend projects with React**
 - Improving **JavaScript fundamentals & problem-solving**
 - Creating **reusable UI components**
-- Learning **AI tools integration (non-API, local-first)**
+- Learning **AI tools integration **
 
 ---
 
@@ -42,7 +42,7 @@
 | Project | Description |
 |-------|-------------|
 | 🌐 **Portfolio Website** | Personal portfolio built with modern UI & responsive design |
-| 🎨 **UI Components** | Buttons, cards, layouts using Tailwind CSS |
+| 🎨 **Amazon UI** | Responsive mobile view, Hover effects + loading skeleton |
 | 🌦️ **Weather App** | Real-time weather application built using JavaScript with a clean and responsive UI |
 | 📝 **Notes App** | Simple notes application to create, edit, and manage notes efficiently |
 | 🎮 **Tic Tac Toe Game** | JavaScript-based game with clean logic |
