@@ -1,82 +1,122 @@
-<h1 align="center">Hi, I'm Sanket 👋</h1>
+<!-- Animated Gradient Banner -->
 
 <p align="center">
-  <b>Frontend Developer • React.js • JavaScript • Exploring AI Tools</b><br>
-  I build clean, responsive user interfaces and practical tools using modern web technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Sanket%20Kumar%20Singh&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
----
+<!-- Profile Views -->
 
-## 🧑‍💻 About Me
-- 🎓 B.Tech (AIML) student | Graduating in **2027**
-- 💻 Strong foundation in **HTML, CSS, JavaScript**
-- ⚛️ Building projects with **React.js & Tailwind CSS**
-- 🤖 Exploring **AI tools & local LLM setups (LM Studio)**
+<!-- <p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</p> -->
 
----
-
-## 🛠️ Tech Stack & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/LM_Studio-Local_LLM-blueviolet?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 Current Focus
-- Building **real-world frontend projects with React**
-- Improving **JavaScript fundamentals & problem-solving**
-- Creating **reusable UI components**
-- Learning **AI tools integration **
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|-------|-------------|
-| 🌐 **Portfolio Website** | Personal portfolio built with modern UI & responsive design |
-| 🎨 **Amazon UI** | Responsive mobile view, Hover effects + loading skeleton |
-| 🌦️ **live data** | Real-time weather, crypto, stock webpage built using React.js with a clean and responsive UI |
-| 📝 **Notes App** | Simple notes application to create, edit, and manage notes efficiently |
-| 🎮 **Tic Tac Toe Game** | JavaScript-based game with clean logic |
-
-> More structured open-source repos coming soon 🚧
-
----
-
-## 🌐 Portfolio
-🔗 **Live:**  
-👉 https://sanket745newportfolio.netlify.app/
-
----
-
-
-## 📈 Contribution Activity
+<!-- Typing Animation -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=09singh&theme=react-dark" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Modern+MERN+Stack+Engineer;ERP+%26+HRMS+System+Builder;Building+Real+World+Software;AI+Product+Explorer"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## About Me
 
-<p>
-  <a href="https://www.linkedin.com/in/sanket-kumar-76628732b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://sanket745newportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
+🎓 B.Tech AIML Student
+
+💻 Full Stack Developer working with the **Modern MERN Stack**
+
+⚡ Focused on building **real software systems instead of tutorial projects**
+
+🧠 Exploring **AI tools, automation and data-driven applications**
+
+
+---
+
+## Development Focus
+
+🚀 Building scalable systems like **ERP Software**
+
+🏢 Developing **HR Management Systems**
+
+📊 Creating **Live Dashboards for Weather and Crypto Data**
+
+⚡ Designing **interactive modern web applications**
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode"/>
+
 </p>
 
 ---
 
-⭐ *If you find my projects useful, consider giving them a star!*
+## Projects
+
+### ERP Software
+
+Full stack ERP platform with authentication, dashboards and management modules.
+
+### HR Management System
+
+Employee management system with database integration and workflow handling.
+
+### Live Data Dashboards
+
+Real time dashboards for **weather analytics and crypto market tracking**.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=09singh&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=09singh&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09singh&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=09singh&theme=tokyo-night"/>
+</p>
+
+---
+
+## Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanket-kumar-76628732b/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/09singh">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+⭐ From **Sanket Kumar Singh**
